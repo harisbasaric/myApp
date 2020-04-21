@@ -1,6 +1,12 @@
 <testcode>
-  <element> This is first element of testcode. </element>
-  <element> This is the second element. </element>
- 
-  <quote> commit this <quote>
+  <block>
+    <element> This is first element of testcode. </element>
+    <element> This is the second element. </element>
+
+    <quote> commit this <quote>
+  </block>
+  
+  <block>
+    <element> Another element in separete block </element>
+  </block>
 </testcode>
