@@ -9,4 +9,9 @@
   <block>
     <element> Another element in separete block </element>
   </block>
+
+  <block>
+    <quote> everything is better local </quote>
+    <element> VS Code edited testcode </element>
+  </block>
 </testcode>
