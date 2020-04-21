@@ -16,4 +16,5 @@
   </block>
 
   <element> Testing some more stuff </element>
+  <button> Test button </button>
 </testcode>
